@@ -8,7 +8,7 @@
 <img src="https://cdn1.radikalno.ru/uploads/2020/10/7/030ac32a2973eedfa3bb5b19aecec725-full.jpg" alt="афиша">
 
 
-<b><p><a href="https://github.com/sw-shar/--py--/blob/main/%D0%9C%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D0%B8%D0%B3%D1%80%D0%B0%20-%20%D1%84%D0%BE%D1%80%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%BC%D0%BE%D0%BD%D0%B5%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8.ipynb">Проект ИГРА - модель монетизации</a></p></b>
+<b><p><a href="https://github.com/sw-shar/--py--/blob/main/%D0%9C%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D0%B8%D0%B3%D1%80%D0%B0%20-%20%D1%84%D0%BE%D1%80%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%BC%D0%BE%D0%BD%D0%B5%D1%82%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8.ipynb">Проект мобильная игра "Космические братья"  - модель монетизации</a></p></b>
 метрики - DAU, Retention,конверсия по каналам привелечения, CPI
 
 <img src="https://cdn1.radikalno.ru/uploads/2020/10/7/f40f7ec1b64e57a6efe22f316e621a55-full.jpg" alt="игры">
