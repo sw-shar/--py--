@@ -5,7 +5,7 @@
 
 
 <b><p><a href="https://github.com/sw-shar/--py--/blob/main/COVID-19.ipynb">Проект COVID-19</a></p></b>
-Показывает выбранные страны с графиком заражений.
+Показывает выбранные страны с графиком заражений, на каждый день. Подгружаю данные из открытых источников.
 
 <a href="https://github.com/sw-shar/--py--/blob/main/COVID-19.ipynb"><img src="https://cdn1.radikalno.ru/uploads/2020/10/7/cd962f27531941bc84bfb833f56d42b6-full.jpg" alt="covid"></a>
 
