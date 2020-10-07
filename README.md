@@ -3,8 +3,8 @@
 Сюда я выкладываю учебные проекты после курсов Яндекс.Практикум и то, что сделала для себя.
 <img src="https://yadi.sk/i/Ih7bkiuVezj-Dw" alt="сертификат">
 
-### Проект COVID-19:
-<p><a href="https://github.com/sw-shar/--py--/blob/main/COVID-19.ipynb">Проект COVID-19:с</a></p>
+
+<b><p><a href="https://github.com/sw-shar/--py--/blob/main/COVID-19.ipynb">Проект COVID-19</a></p></b>
 Показывает выбранные страны с графиком заражений.
 
 <a href="https://github.com/sw-shar/--py--/blob/main/COVID-19.ipynb"><img src="https://cdn1.radikalno.ru/uploads/2020/10/7/cd962f27531941bc84bfb833f56d42b6-full.jpg" alt="covid"></a>
