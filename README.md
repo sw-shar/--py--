@@ -10,7 +10,7 @@
 <a href="https://github.com/sw-shar/--py--/blob/main/COVID-19.ipynb"><img src="https://cdn1.radikalno.ru/uploads/2020/10/7/cd962f27531941bc84bfb833f56d42b6-full.jpg" alt="covid"></a>
 
 
-<b><p><a href="https://github.com/sw-shar/--py--/blob/main/AB%20%D1%82%D0%B5%D1%81%D1%82%20%D0%BA%D1%80%D1%83%D0%BF%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82%20%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD%D0%B0.ipynbb">Проект AB тест крупного интернет магазина</a></p></b>
+<b><p><a href="https://github.com/sw-shar/--py--/blob/main/AB%20%D1%82%D0%B5%D1%81%D1%82%20%D0%BA%D1%80%D1%83%D0%BF%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82%20%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD%D0%B0.ipynb">Проект AB тест крупного интернет магазина</a></p></b>
 Показываем как с помощью АВ тестов можно увеличивать показатели компании и улучшать пользовательский опыт.
 
 <img src="https://cdn1.radikalno.ru/uploads/2020/10/7/3a988d6809748895da8c8ad6f51e8379-full.jpg" alt="ab">
