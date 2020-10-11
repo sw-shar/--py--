@@ -66,6 +66,7 @@
 Стек : Подгружаю данные из открытых источников.
 
 Статус проекта - завершен
+
 <a href="https://github.com/sw-shar/--py--/blob/main/COVID-19.ipynb"><img src="https://cdn1.radikalno.ru/uploads/2020/10/7/cd962f27531941bc84bfb833f56d42b6-full.jpg" width="400"  alt="covid"></a>
 
 <b><p><a href="https://yadi.sk/i/Ih7bkiuVezj-Dw">Сертификат об окончании курсов</a></p></b>
