@@ -70,4 +70,4 @@
 
 <a href="https://github.com/sw-shar/--py--/blob/main/COVID-19.ipynb">
 
-<b><p><a href="https://yadi.sk/i/Ih7bkiuVezj-Dw">Сертификат об окончании курсов</a></p></b>
+
